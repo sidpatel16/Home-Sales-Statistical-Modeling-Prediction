@@ -37,7 +37,7 @@ The analysis was conducted in **R** and followed these steps:
 
 ## Key Findings
 * **Square Footage is King:** `sqft` remained the strongest predictor of sales price.
-* **Year – for every 1 year increase in pending date year, sale price increases by 12,020$.
+* Year – for every 1 year increase in pending date year, sale price increases by 12,020$.
 * **Amenities Matter:** Homes with **Tile Roofs** and **Private Pools** showed statistically significant price premiums.
 * **Multicollinearity:** `Baths` and `Sqft` were highly correlated (0.85), requiring careful selection to maintain model stability.
 
